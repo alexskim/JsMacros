@@ -4,6 +4,7 @@ name: Build Release V2
 
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
+# 1
 on:
   release:
     types: [created]
